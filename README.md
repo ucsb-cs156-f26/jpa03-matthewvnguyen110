@@ -1,7 +1,5 @@
 # STARTER-jpa03
 
-
-
 Running at: <https://jpa03-matthewvnguyen110.dokku-02.cs.ucsb.edu>
 
 # Configuring GitHub Pages for the documentation
